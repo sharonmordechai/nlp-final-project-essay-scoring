@@ -1,0 +1,2 @@
+,test_loss,test_accuracy,execution_time (minutes)
+BertForSequenceClassification,0.602323896006534,84.01015228426395,57.01449687083562
